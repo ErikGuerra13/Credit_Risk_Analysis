@@ -23,6 +23,7 @@
 ![](Resources/SMOTE.PNG)
 
 - Results from using SMOTE model
+
 ![](Resources/SMOTEresults.PNG)
 
 ## Undersampling
